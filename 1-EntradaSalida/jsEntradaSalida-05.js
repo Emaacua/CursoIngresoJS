@@ -13,7 +13,16 @@ function mostrar()
 	alert(mensaje);
 
 
+/*var altura;
+	salida de datos
+	alert("ok");
+	alert(altura);
+	alert("la altura es" + altura);
 
+	document.getElementById("idExistente").value="";
+	document.getElementById("idExistente").value=altura;
+	document.getElementById("idExistente").value="la altura es:" + altura;
+*/
 
 
 }
