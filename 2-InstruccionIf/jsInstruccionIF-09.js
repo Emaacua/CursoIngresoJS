@@ -1,6 +1,13 @@
 function mostrar()
 {
-	//Genero el número RANDOM entre 1 y 10 
-	alert("ok");	
+	var numeroRamdom;
+
+	numeroRamdom = Math.floor(Math.random()* 10);
+	console.log("El numero ramdom es:" + numeroRamdom);
+
+	if(numeroRamdom)
+	{
+		alert("El numero ramdom es: " + numeroRamdom);
+	}
 
 }//FIN DE LA FUNCIÓN
